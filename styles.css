@@ -2,10 +2,11 @@
 /* I am still working on this style page */
 *{
     border: 1px solid black;
-    font-size: 600%    
+ 
 }
 h2 {
     font-family: verdana;
+    font-size: 300%
 }
 
 /* This is the part I would like to be good at */
@@ -15,6 +16,10 @@ p {
 
 .pup {
     padding 
+}
+
+ol {
+    font-size: 400% 
 }
 
 footer {
