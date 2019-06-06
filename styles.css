@@ -6,6 +6,11 @@ p {
     color: gray;
 }
 
+.pup {
+    padding 5px 8px 12px 9px;
+    margin 20px 50px
+}
+
 footer {
     font-size: 300%
 }
