@@ -1,7 +1,8 @@
 
 /* I am still working on this style page */
 *{
-    border: 1px solid black;    
+    border: 1px solid black;
+    font-size: 600%    
 }
 h2 {
     font-family: verdana;
