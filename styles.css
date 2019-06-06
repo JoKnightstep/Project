@@ -1,14 +1,19 @@
+
+/* I am still working on this style page */
+*{
+    border: 1px solid black;    
+}
 h2 {
     font-family: verdana;
 }
 
+/* This is the part I would like to be good at */
 p {
     color: gray;
 }
 
 .pup {
-    padding 5px 8px 12px 9px;
-    margin 20px 50px
+    padding 
 }
 
 footer {
