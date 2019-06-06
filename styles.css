@@ -2,3 +2,10 @@ h2 {
     font-family: verdana;
 }
 
+p {
+    color: gray;
+}
+
+footer {
+    font-size: 300%
+}
